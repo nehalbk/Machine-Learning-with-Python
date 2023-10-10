@@ -1,0 +1,1 @@
+This repository consists of python datascience projects I created while learning data science and machine learning.
